@@ -1,0 +1,19 @@
+body {
+    background-color: #1a1a2e; /* Dark background for space theme */
+    color: #ffffff; /* White text */
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+  }
+  h1 {
+    color: #00b7eb; /* Light blue for headings */
+    font-family: 'Georgia', serif;
+  }
+  .content {
+    background-color: #16213e; /* Slightly lighter dark for content boxes */
+    padding: 15px;
+    border-radius: 5px;
+  }
+  .highlight {
+    background-color: #ff4c4c; /* Red highlight */
+    padding: 5px;
+  }

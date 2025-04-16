@@ -1,0 +1,24 @@
+body {
+    background-image: url('starry.jpg');
+    background-size: cover;
+    font-family: 'Arial', sans-serif;
+    color: #ffffff; /* White text for readability on dark background */
+}
+
+div.section1 {
+    background-color: rgba(0, 0, 50, 0.8); /* Dark blue, semi-transparent */
+    padding: 20px;
+    margin: 10px;
+}
+
+div.section2 {
+    background-color: rgba(50, 0, 50, 0.8); /* Dark purple, semi-transparent */
+    padding: 20px;
+    margin: 10px;
+}
+
+div.section3 {
+    background-color: rgba(0, 50, 50, 0.8); /* Dark teal, semi-transparent */
+    padding: 20px;
+    margin: 10px;
+}
